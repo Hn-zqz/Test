@@ -1,7 +1,7 @@
 import random
 data=""
 count=0
-max=int(input("?"))
+max=5
 while count<max:
 	da=random.randint(0,9)
 	data=data+str(da)
