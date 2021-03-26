@@ -7,3 +7,5 @@ while count<max:
 	data=data+str(da)
 	count+=1
 print(len(data),data)
+
+# test
